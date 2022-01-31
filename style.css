@@ -48,6 +48,10 @@ a:hover {
     padding: 100px 50px;
 }
 
+.size{
+    font-size: 1.2em;
+}
+
 .bloc-md {
     padding: 50px;
 }
@@ -367,6 +371,10 @@ a:hover {
     font-style: italic;
 }
 
+.size{
+    font-size: 1.2em;
+}
+
 .part_foot ul{
     display: flex;
     justify-content: space-between;
@@ -387,10 +395,6 @@ a:hover {
 
 .part_foot a:hover {
     text-decoration: underline;
-}
-
-.size {
-    font-size: 1.4em;
 }
 
 #map{
