@@ -691,7 +691,7 @@ p,
 label,
 .btn,
 a {
-    font-family: "helvetica";
+    font-family: "helvetica",arial;
     font-weight: 400;
     color: black;
 }
