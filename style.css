@@ -375,6 +375,12 @@ a:hover {
     font-size: 1.2em;
 }
 
+.bckgrnd_blck{
+    background-color: black;
+}
+
+.visually-hidden {clip: rect(0 0 0 0);overflow: hidden;position: absolute;height: 1px;width: 1px;}
+
 .part_foot ul{
     display: flex;
     justify-content: space-between;
@@ -777,6 +783,10 @@ h4 {
     margin-top: 24px;
 }
 
+.cursor{
+    cursor: pointer;
+}
+
 .black {
     color: black;
 }
@@ -820,7 +830,7 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
+.tc-black {
     color: black;
 }
 
